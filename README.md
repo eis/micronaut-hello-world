@@ -1,6 +1,7 @@
 ## About this project
 
-This project is the result of running `mn create-app hello-world --build maven`.
+This project is the result of running `mn create-app hello-world --build maven` and
+adding a controller.
 
 You can use it without micronaut cli though.
 
