@@ -1,3 +1,27 @@
+## About this project
+
+This project is the result of running `mn create-app hello-world --build maven`.
+
+You can use it without micronaut cli though.
+
+Example of use:
+
+```
+mvn mn:run
+curl localhost:8080
+```
+
+or old-style:
+```
+mvn clean package
+java -jar target/hello-world-0.1.jar
+curl localhost:8080
+```
+Running the tests:
+```
+mvn test
+```
+
 ## Micronaut 2.3.4 Documentation
 
 - [User Guide](https://docs.micronaut.io/2.3.4/guide/index.html)
