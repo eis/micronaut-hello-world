@@ -1,3 +1,7 @@
+<a href="https://github.com/eis/micronaut-hello-world/actions/workflows/github-actions-build.yml"
+    title="Build Status">
+    <img src="https://github.com/eis/micronaut-hello-world/actions/workflows/github-actions-build.yml/badge.svg">
+</a>
 ## About this project
 
 This project is the result of running `mn create-app hello-world --build maven` and
